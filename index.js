@@ -10,3 +10,4 @@ function writeCards(array, event){
   return newArray;
 }
 writeCards(array, event)
+
