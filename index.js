@@ -1,5 +1,5 @@
 // Code your solutions in this file
 
-function wrapGift(){
-  
+function writeCards(array, event){
+  for (let i = 0; i < array.lenght; i++)
 }
