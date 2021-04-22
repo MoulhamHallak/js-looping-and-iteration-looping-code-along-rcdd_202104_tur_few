@@ -17,4 +17,4 @@ function countDown(num){
     console.log(num--);
   }
 }
-countDown(11)
+countDown(10)
