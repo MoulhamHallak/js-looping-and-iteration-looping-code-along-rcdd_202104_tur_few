@@ -5,6 +5,6 @@ function writeCards(array, event){
   for (let i = 0; i < array.length; i++){
     let newArray = [`Thank you, ${array[i]}, for the wonderful ${event} gift!`];
   }
-  return array;
+  return newArray;
 }
 writeCards(array, event)
