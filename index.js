@@ -16,5 +16,6 @@ function countDown(num){
     console.log(num);
     num--;
   }
+  return num;
 }
 countDown(10)
