@@ -12,9 +12,9 @@ function writeCards(array, event){
 writeCards(array, event)
 
 function countDown(num){
-  while (num > 0) {
+  while (num === 0) {
     console.log(num);
-    num = num - 1;
+    num--;
   }
 }
 countDown(10)
