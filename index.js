@@ -11,9 +11,10 @@ function writeCards(array, event){
 }
 writeCards(array, event)
 
-function countDown(){
-  while (countDown == 0) {
-    console.log(countDown--);
+function countDown(num){
+  let num;
+  while (num == 0) {
+    console.log(num--);
   }
 }
 countDown(10)
