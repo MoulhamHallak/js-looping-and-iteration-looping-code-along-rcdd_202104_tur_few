@@ -1,5 +1,5 @@
 // Code your solutions in this file
-let array = ["Ada", "Brendan", "Ali"];
+let array = ["Lisa", "Kaitlin", "Jan"];
 let event = "surprise";
 let newArray=[];
 function writeCards(array, event){
