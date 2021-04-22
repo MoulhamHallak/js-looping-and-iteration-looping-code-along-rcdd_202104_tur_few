@@ -7,3 +7,4 @@ function writeCards(array, event){
   }
   return array;
 }
+writeCards(array, event)
