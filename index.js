@@ -11,3 +11,7 @@ function writeCards(array, event){
 }
 writeCards(array, event)
 
+let countDown;
+while (countDown = 0) {
+  console.log(countup++);
+}
